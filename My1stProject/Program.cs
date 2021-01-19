@@ -8,6 +8,8 @@ namespace My1stProject
         {
             int myNumber = 10;
             Console.WriteLine(myNumber);
+
+            Console.WriteLine("hej");
         }
     }
 }
